@@ -18,6 +18,7 @@
     "@astrojs/check": "^0.4.1",
     "@astrojs/rss": "^4.0.2",
     "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "@notionhq/client": "^2.2.14",
     "@resvg/resvg-js": "^2.6.0",
     "@sentry/astro": "^7.104.0",
     "@sentry/node": "^7.104.0",

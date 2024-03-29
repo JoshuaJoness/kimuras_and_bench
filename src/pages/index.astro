@@ -184,3 +184,9 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
 </style>
 @components/Form
+
+<script>
+  const getPosts = async () => fetch("/api/notion");
+  const posts = await getPosts();
+  console.log(posts, "posts");
+</script>
