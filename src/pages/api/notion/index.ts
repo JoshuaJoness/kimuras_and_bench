@@ -2,7 +2,7 @@ import type { APIRoute } from "astro";
 import { Client } from "@notionhq/client";
 import { transformNotionToMarkdown } from "./transformNotionToMarkdown";
 import { getBlogPosts } from "./getBlogPosts";
-import { processAndwriteMarkdownFile } from "./writeMarkdownFile";
+import { processAndwriteMarkdownFile } from "./processAndWriteMarkdownFile";
 
 // Initializing a client
 const notion = new Client({
@@ -16,7 +16,7 @@ export const GET: APIRoute = async ({ request }) => {
       notion,
       notionBlogPosts
     );
-    // processAndwriteMarkdownFile(pagesInMarkdown);
+    processAndwriteMarkdownFile(pagesInMarkdown);
   } catch (error) {
     console.error(error);
   }
