@@ -39,7 +39,7 @@ If you want to invite a great woman or great women into your life, you have to h
 
 Space in this context can mean literal physical space, i.e. you need to have your own place. But space can also mean emotional space.
 
-If you are involved with a woman who is not exactly what you’re looking for but you’re keeping her around out of convenience or laziness, then your not opening up space for a really great woman to step into your life.
+If you are involved with a woman who is not exactly what you’re looking for but you’re keeping her around out of convenience or laziness, then you're not opening up space for a really great woman to step into your life.
 
 Learn to let go and trust.
 
